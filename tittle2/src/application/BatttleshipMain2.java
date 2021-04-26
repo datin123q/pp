@@ -100,7 +100,7 @@ public class BatttleshipMain2 extends Application {
                 Media media3 = new Media(getClass().getResource("/sound/win.mp3").toString());
             	MediaPlayer mediaPlayer3 = new MediaPlayer(media3);
                 mediaPlayer3.setVolume(1);
-               mediaPlayer.setAutoPlay(true);
+               mediaPlayer3.setAutoPlay(true);
                 Label secondLabel = new Label();
                 Label secondLabel2 = new Label();
                Integer b= new Integer(score);
