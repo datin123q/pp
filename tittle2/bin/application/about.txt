@@ -1,0 +1,15 @@
+Chào mừng đến với Battleship - tựa game mang đầy tính chiến thuật và may mắn
+Hướng dẫn chơi game:
+- Mỗi bên có một vùng biển là một lưới tọa độ 10*10
+- Người chơi sẽ đặt ẩn lần lượt 5 con tàu có độ dài từ 1 đến 5 vào vùng biển của mình
+- Lần lượt các bên sẽ bắn vào các ô tọa độ của vùng biển đổi phương nếu bắn trúng sẽ được bắn tiếp ngược lại 
+sẽ bị mất lượt
+- Một chiếc tàu bị hạ khi bị bắn nổ toàn bộ hoặc bị bắn trúng đầu
+- Trò chơi kết thúc khi 1 bên bị bắn toàn bộ tàu.
+Battleship được phát triển bởi Team Smile bao gồm:
++ Hoàng Văn Chiến - 201943994
++ Hồ Đức Hân - 20194040
++ Trịnh Quốc Đạt - 20194015
++ Phạm Đình Minh - 20194122
++ Vũ Bá Lượng - 20194109
+Mọi ý kiến đóng góp xin gửi về hòm thư: chien.hv193994@sis.hust.edu.vn
